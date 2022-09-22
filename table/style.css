@@ -1,0 +1,55 @@
+.table{
+    text-align: center;
+    background-color: #7a88ad;
+    color: white;
+
+
+}
+.table1{
+    text-align: center;
+    background-color: #50618d;
+    color: white;
+
+}
+.table2{
+    text-align: center;
+    background-color: #314174;
+    color: white;
+
+}
+.table3{
+    text-align: center;
+    background-color: #182955;
+    color: white;
+
+}
+.table4{
+    text-align: center;
+    background-color: #07153a;
+    color: white;
+
+}
+
+.rows{
+    text-align: center;
+}
+
+.rows1{
+    text-align:left;
+}
+
+
+.borderradius{
+    border-radius: 10px 0px 0px 0px;
+}
+
+.borderradius1{
+    border-radius: 0px 10px 0px 0px;
+}
+
+.borderradius2{
+    border-radius:  0px 0px 0px 10px;
+}
+.borderradius3{
+    border-radius:  0px 0px 10px 0px;
+}
